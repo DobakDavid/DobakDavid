@@ -1,4 +1,5 @@
-## Hi there 👋
+<## Hi there 👋>
+I am a mechatronics engineer with honors degrees in both BSc and MSc. My areas of interest include deep learning, machine learning, and generative AI.
 
 <!--
 **DobakDavid/DobakDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
