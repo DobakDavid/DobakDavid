@@ -1,4 +1,3 @@
-<## Hi there 👋>
 I am a mechatronics engineer with honors degrees in both BSc and MSc. My areas of interest include deep learning, machine learning, and generative AI.
 
 <!--
