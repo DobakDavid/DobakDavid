@@ -1,4 +1,4 @@
-I am a mechatronics engineer with honors degrees in both BSc and MSc. My areas of interest include deep learning, machine learning, and generative AI. I am the co-owner of [TrafoAcademy YouTube-channel](https://www.youtube.com/@trafoacademy).
+I am a mechatronics engineer with honors degrees in both BSc and MSc. My areas of interest include deep learning, machine learning, and generative AI. I am the co-owner of the [TrafoAcademy](https://www.youtube.com/@trafoacademy) YouTube-channel. Our goal is to make most recent technologies available to everyone.
 
 <!--
 **DobakDavid/DobakDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
